@@ -6,9 +6,11 @@
 
 ## 目录
 
-1. [摘要](https://github.com/hychn/writing-skills/blob/master/2017-06-29-paper-writing-structure-abstraction.md)
-2. [引言](https://github.com/hychn/writing-skills/blob/master/2017-06-29-paper-writing-structure-introduction.md)
-3. [相关文献](https://github.com/hychn/writing-skills/blob/master/2017-06-29-paper-writing-structure-relative.md)
+1. 篇章结构
+	1. [摘要](https://github.com/hychn/writing-skills/blob/master/2017-06-29-paper-writing-structure-abstraction.md)
+	2. [引言](https://github.com/hychn/writing-skills/blob/master/2017-06-29-paper-writing-structure-introduction.md)
+	3. [相关文献](https://github.com/hychn/writing-skills/blob/master/2017-06-29-paper-writing-structure-relative.md)
+2. [段落内结构](https://github.com/hychn/writing-skills/blob/master/2017-07-15-paper-writing-structure-paragraph.md)
 
 ## 文献链接
 [文献在这里](https://github.com/hychn/writing-skills/blob/master/refereces)

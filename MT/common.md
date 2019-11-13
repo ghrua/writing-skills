@@ -35,3 +35,4 @@
 
 + **shed light on**
   + we use selectivity to shed light on confounding factors.
++ **provide insight into**

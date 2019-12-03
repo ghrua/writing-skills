@@ -1,5 +1,10 @@
 ## Abstract
 
+&#x1F4D8; **copy**
+
++ plagiarize
+  + ... simply plagiarize from the training set.
+
 ## Introduction
 
 &#x1F4D8;  **declare ... is an open question**
@@ -15,6 +20,10 @@
 + conventional
 + vanilla
 
+&#x1F4D8; **bad in some aspect**
+
++ with defects in ...
+  + ... with defects in quality and diversity...
 
 ## Experiments
 

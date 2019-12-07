@@ -7,6 +7,11 @@
 
 ## Introduction
 
+&#x1F4D8; **can do something**
+
++ can be specialized to
+  + we then demonstrate that it can be sepcialized to more complex models... 
+
 &#x1F4D8;  **declare ... is an open question**
 
 + what these models learn about language remains an open science question

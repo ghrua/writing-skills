@@ -7,6 +7,12 @@
 
 ## Introduction
 
+&#x1F4D8; **at scale**
+
+&#x1F4D8; **reflect**
+
++ gives a measure of...
+
 &#x1F4D8; **can do something**
 
 + can be specialized to

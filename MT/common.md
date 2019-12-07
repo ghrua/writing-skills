@@ -11,6 +11,11 @@
 
 + what these models learn about language remains an open science question
 
+&#x1F4D8; **besides...**
+
++ Amongst other things, ...
++ Amongst other things, they are used for translation and language modeling
+
 &#x1F4D8;  **a lot of previous works ...**
 
 + an emerging body of work investigates this question through probes, ...
@@ -24,6 +29,12 @@
 
 + with defects in ...
   + ... with defects in quality and diversity...
+  
+## Approach
+
+&#x1F4D8; **component**
+
++ building block
 
 ## Experiments
 

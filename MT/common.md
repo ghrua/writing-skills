@@ -4,8 +4,21 @@
 
 + plagiarize
   + ... simply plagiarize from the training set.
+  
+&#x1F4D8; **make progress in**
+
++ pave the way to ...
+
+
+&#x1F4D8; **degree**
++ the extent to which ...
+
 
 ## Introduction
+
+&#x1F4D8; **For ...**
+
++ striving to 
 
 &#x1F4D8; **at scale**
 
@@ -21,6 +34,9 @@
 &#x1F4D8;  **declare ... is an open question**
 
 + what these models learn about language remains an open science question
++ This has spurred interest in ...
++ ... pose problem for ...
+
 
 &#x1F4D8; **besides...**
 
@@ -72,3 +88,14 @@
 + **shed light on**
   + we use selectivity to shed light on confounding factors.
 + **provide insight into**
+
+
+## Related Work
+
+&#x1F4D8; **early work**
+
++ seminal work
+
+&#x1F4D8; **parallel work**
+
++ complementary approach

@@ -16,6 +16,20 @@
 
 ## Introduction
 
+&#x1F4D8; **similar**
++ have in common a multitude of information
+
+&#x1F4D8; **with the advant of**
+
+
+&#x1F4D8; **partially success**
+
++ have met with mixed success
+
+&#x1F4D8; **benchmark**
+
++ de-facto standard
+
 &#x1F4D8; **For ...**
 
 + striving to 
@@ -77,6 +91,7 @@
   + ..., the MLP picks up on the distinction considerably better.
 + **substantially more accurate**
   + , was substantially more accurate at predicting ...
++ significantly lags behind
 
 &#x1F4D8; **at lower risk of**
 

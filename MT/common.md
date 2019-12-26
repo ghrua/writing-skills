@@ -16,11 +16,24 @@
 
 ## Introduction
 
+&#x1F4D8; **little**
+
++ a handful of
+
+&#x1F4D8; **hard**
+
++ arduous
+
+
 &#x1F4D8; **similar**
 + have in common a multitude of information
++ loosely related
 
 &#x1F4D8; **with the advant of**
 
+&#x1F4D8; **promising**
+
++ open up the tantalizing prospect of
 
 &#x1F4D8; **partially success**
 
